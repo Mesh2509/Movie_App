@@ -27,7 +27,7 @@
 ## 🚨 Tutorial
 
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+Prefer learning with visuals? Use this beginner-friendly walkthrough to build and understand the app from scratch.
 
 
 ## <a name="introduction">🤖 Introduction</a>
