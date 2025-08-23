@@ -13,9 +13,7 @@
 
   <h3 align="center">A Movie Application</h3>
 
-   <div align="center">
-     Build this project step by step.
-    </div>
+   
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
