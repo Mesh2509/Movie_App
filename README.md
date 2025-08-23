@@ -80,7 +80,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Mesh2509/Movie_App.git
-cd react-movies
+cd Movie_App
 
 ```
 
